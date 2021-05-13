@@ -1,0 +1,16 @@
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\bin\Debug\net5.0\CadastroFilmesSeries.exe
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\bin\Debug\net5.0\CadastroFilmesSeries.deps.json
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\bin\Debug\net5.0\CadastroFilmesSeries.runtimeconfig.json
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\bin\Debug\net5.0\CadastroFilmesSeries.runtimeconfig.dev.json
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\bin\Debug\net5.0\CadastroFilmesSeries.dll
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\bin\Debug\net5.0\ref\CadastroFilmesSeries.dll
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\bin\Debug\net5.0\CadastroFilmesSeries.pdb
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\obj\Debug\net5.0\CadastroFilmesSeries.csprojAssemblyReference.cache
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\obj\Debug\net5.0\CadastroFilmesSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\obj\Debug\net5.0\CadastroFilmesSeries.AssemblyInfoInputs.cache
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\obj\Debug\net5.0\CadastroFilmesSeries.AssemblyInfo.cs
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\obj\Debug\net5.0\CadastroFilmesSeries.csproj.CoreCompileInputs.cache
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\obj\Debug\net5.0\CadastroFilmesSeries.dll
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\obj\Debug\net5.0\ref\CadastroFilmesSeries.dll
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\obj\Debug\net5.0\CadastroFilmesSeries.pdb
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\8-Projeto_1_Criando_cadastro_series\CadastroFilmesSeries\obj\Debug\net5.0\CadastroFilmesSeries.genruntimeconfig.cache
